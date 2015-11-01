@@ -1,6 +1,3 @@
-#include <cv.h>
-#include "opencv2/opencv.hpp"
-
 //for the rasperry pi
 #ifndef INT64_C
 #define INT64_C(c) (c ## LL)
